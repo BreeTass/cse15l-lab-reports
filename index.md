@@ -1,4 +1,4 @@
-*Itallics* \n
+*Itallics* \
 **Bold**
 # Heading
 ## Another heading
